@@ -1,18 +1,19 @@
 # OCT_ONH_RNFL_Analysis
 Automated OCT image analysis pipeline for optic nerve head localization and retinal quantification.
-# OCT ONH Analysis Pipeline
+# OCT ONH RNFL Analysis Pipeline
 
 ## Overview
 
-This project develops a workflow for quantitative analysis of retinal OCT images.
+This project develops a computational workflow for quantitative analysis of retinal OCT images.
 
-## Features
+The goal is to automate optic nerve head detection, retinal region analysis, and extraction of imaging biomarkers.
 
-- OCT image preprocessing
-- Optic nerve head localization
-- Retinal region detection
-- Quadrant-based analysis
-- Quantitative intensity measurements
+## Research Area
+
+- Retinal imaging
+- Optical coherence tomography (OCT)
+- Optic nerve head analysis
+- Quantitative image processing
 
 ## Workflow
 
@@ -20,19 +21,29 @@ OCT image
 ↓
 Preprocessing
 ↓
-ONH detection
+ONH localization
 ↓
 Segmentation
 ↓
-Measurement
+Quadrant analysis
+↓
+Quantitative measurements
 
-## Tools
+## Methods
 
-Python
-Google Colab
-OpenCV
-scikit-image
-Pandas
+Tools:
+- Python
+- Google Colab
+- OpenCV
+- scikit-image
+- Pandas
+
+## Outputs
+
+- ONH location
+- Retinal measurements
+- Intensity analysis
+- Exportable datasets
 
 ## Author
 
