@@ -158,7 +158,9 @@ If you use this project in your research, please cite the repository and any ass
 
 ## Roadmap
 
-
+<p align="center">
+  <img src="images/week1/project_overview_workflow.png" width="900">
+</p>
 ---
 
 ## 🚀 Development Updates
