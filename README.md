@@ -158,6 +158,32 @@ If you use this project in your research, please cite the repository and any ass
 
 ## Roadmap
 
+
+---
+
+## 🚀 Development Updates
+
+### Week 2 – Automatic ONH Detection
+
+The current development focuses on automatic localization of the **Optic Nerve Head (ONH)** from retinal en-face OCT images.
+
+Reliable ONH localization serves as the anatomical reference for:
+
+- Automatic retinal quadrant generation
+- RNFL thickness analysis
+- Intensity measurements
+- Edema quantification
+
+Current status:
+
+- ✅ Image loading
+- ✅ Image preprocessing
+- 🚧 ONH detection
+- ⏳ Quadrant segmentation
+
+<!-- Image will be added here after upload -->
+
+---
 ### Version 1.0
 
 - [x] Project structure
