@@ -181,7 +181,9 @@ Current status:
 - 🚧 ONH detection
 - ⏳ Quadrant segmentation
 
-<!-- Image will be added here after upload -->
+<p align="center">
+  <img src="images/week2/ONH_detection_workflow_week2.png" width="900">
+</p>
 
 ---
 ### Version 1.0
