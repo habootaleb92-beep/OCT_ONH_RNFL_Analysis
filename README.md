@@ -210,6 +210,7 @@ Current Development
   <img src="images/week3/week3_quadrant_generation.png" width="900">
 </p>
 ---
+Week 4 — RNFL Thickness Measurement
 ### Version 1.0
 
 - [x] Project structure
