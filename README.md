@@ -187,6 +187,24 @@ Current status:
   <img src="images/week2/ONH_detection_workflow_week2.png" width="900">
 </p>
 
+
+## Week 3 – Standardized Retinal Quadrant Analysis
+
+Following ONH localization, the pipeline automatically establishes anatomically consistent retinal quadrants based on optic nerve head position and eye laterality.
+
+Standardized quadrant generation improves reproducibility and enables direct comparison of regional retinal biomarkers across imaging datasets.
+
+Current Development
+
+✔ Image loading
+
+✔ Preprocessing
+
+✔ ONH detection
+
+🚧 Quadrant generation
+
+⏳ RNFL measurements
 ---
 ### Version 1.0
 
