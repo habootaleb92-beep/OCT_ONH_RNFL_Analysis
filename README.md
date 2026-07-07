@@ -205,6 +205,10 @@ Current Development
 🚧 Quadrant generation
 
 ⏳ RNFL measurements
+
+<p align="center">
+  <img src="images/week3/week3_quadrant_generation.png" width="900">
+</p>
 ---
 ### Version 1.0
 
